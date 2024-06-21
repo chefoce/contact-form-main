@@ -121,7 +121,7 @@ input[type="radio" i] {
 }
 
 input[type="checkbox"]:checked {
-    background: transparent url("/assets/images/icon-checkbox-check.svg") no-repeat 50% 50%;
+    background: transparent url("../assets/images/icon-checkbox-check.svg") no-repeat 50% 50%;
     border: 0.15em solid var(--Green600);
 }
 
